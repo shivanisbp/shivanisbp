@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Spotify Playing 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=spvcvjffjgwtsmrq21eyz1ic7&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=spvcvjffjgwtsmrq21eyz1ic7&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=spvcvjffjgwtsmrq21eyz1ic7&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=spvcvjffjgwtsmrq21eyz1ic7&redirect=true)
